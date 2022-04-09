@@ -31,6 +31,9 @@ in a concentrated effort to land my first <i>Data Science</i> position.
 
 ---
 ## LinkedIn Data Scraper 
+
+<a href="https://github.com/AustinKulig/data-science-portfolio/tree/main/Bots/LinkedIn%20Data%20Scraper"> Full Project Repository</a>
+
 The decision to pursue a data science career track brought with it a host of questions, one of the first being - <i>what 
 in-demand, hard skills should I learn to best position my job search? </i> As I scoured LinkedIn in search of answers, a thought
 quickly pervaded my mind. <i>Why not leverage the job description data on LinkedIn to capture a snapshot of the in-demand 
