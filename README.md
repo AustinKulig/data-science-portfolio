@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="#about-me">About Me</a> •
-  <a href="#LinkedIn Data Scraper">LinkedIn Data Scraper</a>
+  <a href="https://github.com/AustinKulig/data-science-portfolio#linkedin-data-scraper">LinkedIn Data Scraper</a>
   
 </p>
 
