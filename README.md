@@ -49,7 +49,7 @@ hard and soft skills required.
 
 <img src="https://github.com/AustinKulig/data-science-portfolio/blob/main/Bots/LinkedIn%20Data%20Scraper/Project%20Resources/LinkedIn%20Data%20Scraper.gif" alt="project demonstration GIF" width="100%">
 
-After analyzing over 1,000 job listings, the project results helped dampen the noise in the job search process and 
+After analyzing over 10,000 job listings, the project results helped dampen the noise in the job search process and 
 helped focus my attention on learning relevant skills to attain a data science position. So what hard skills does a <i>Data Scientist</i> need?
 A working knowledge of:
 
