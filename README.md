@@ -11,7 +11,8 @@
 
 <p align="center">
   <a href="#about-me">About Me</a> •
-  <a href="https://github.com/AustinKulig/data-science-portfolio#linkedin-data-scraper">LinkedIn Data Scraper</a>
+  <a href="https://github.com/AustinKulig/data-science-portfolio#linkedin-data-scraper">LinkedIn Data Scraper</a> •
+  <a href="https://github.com/AustinKulig/data-science-portfolio#nba-shot-chart">NBA Shot Chart</a>
   
 </p>
 
@@ -60,7 +61,14 @@ A working knowledge of:
 <li>Spark</li>
 </ul>
 
+## NBA Shot Chart
+
+⚠️ <b> IN DEVELOPMENT ⚠️
+
+<a href="https://github.com/AustinKulig/data-science-portfolio/tree/main/Data%20Visualizations/NBA%20Shot%20Chart"> Full Project Repository</a>
+
+
 ---
 > GitHub [@AustinKulig](https://github.com/AustinKulig) &nbsp;&middot;&nbsp;
-> LinkedIn [Austin Kulig](https://www.linkedin.com/in/austin-kulig-098728148/) &nbsp;&middot;&nbsp;
-> Twitter [@aust3nkulig](https://twitter.com/aust3nkulig)
+> Website [austinkulig.com](https://austinkulig.com) &nbsp;&middot;&nbsp;
+> LinkedIn [Austin Kulig](https://www.linkedin.com/in/austin-kulig/)
